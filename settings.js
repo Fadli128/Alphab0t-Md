@@ -25,7 +25,7 @@ global.language = english  //change indonesia to english if you don't understand
 // Other
 global.botname = "AryBotz-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ AryBotzOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://github.com/aryjuanda" //bebas asal jan hapus
+global.myweb ="https://github.com/aryjuanda/Alphab0t-Md" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/AryBotz" //bebas asal jan hapus
 global.github = "https://github.com/aryjuanda" //bebas
 global.email = "arybotz791@gmail.com" //bebas
